@@ -1,0 +1,18 @@
+{
+  "v": 1,
+  "epoch": "4f42548e2c0948e096fb5fb068af3873",
+  "merge_personas": [
+    "claude",
+    "codex"
+  ],
+  "automerge": false,
+  "merge_authors": [],
+  "merge_authors_by_repo": {},
+  "unattended_authors": [],
+  "guarded_paths": [
+    ".gitea/workflows/",
+    ".github/workflows/"
+  ],
+  "pin_authors": [],
+  "merge_method": "merge"
+}
